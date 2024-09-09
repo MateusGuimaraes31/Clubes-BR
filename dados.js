@@ -6,7 +6,7 @@ let dados = [
       link_siteofc : 'https://vasco.com.br/',
       link_insta : 'https://www.instagram.com/vascodagama/',
       estado: 'Rio de Janeiro',
-      tags: 'Campeão Brasileiro Copa do Brasil Campeão da Libertadores Campeonato Carioca'
+      tags: 'Campeão Brasileiro Copa do Brasil Campeão Libertadores Campeonato Carioca'
   },
   {
       titulo: 'Esporte Clube Bahia',
