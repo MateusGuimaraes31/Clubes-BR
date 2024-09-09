@@ -13,7 +13,7 @@ let dados = [
       descricao: 'O Esporte Clube Bahia é um dos clubes de futebol mais tradicionais do Brasil, com uma rica história e uma apaixonada torcida. Fundado em 1895, em Salvador, o Bahia se tornou um dos principais representantes do futebol baiano e brasileiro.',
       link_wiki: 'https://pt.wikipedia.org/wiki/Esporte_Clube_Bahia',
       link_siteofc: 'https://www.esporteclubebahia.com.br/',
-      link_insta: 'https://www.instagram.com/esporteclubebahia/',
+      link_insta: 'https://www.instagram.com/ecbahia/',
       estado: 'Bahia',
       tags: 'Campeão Brasileiro Copa do Nordeste Campeonato Baiano'
   },
